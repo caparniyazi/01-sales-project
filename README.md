@@ -1,4 +1,5 @@
 # 01SalesProject
+This is a sample Angular project.
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.6.
 
